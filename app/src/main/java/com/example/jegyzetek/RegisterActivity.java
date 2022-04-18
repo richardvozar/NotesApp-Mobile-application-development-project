@@ -63,7 +63,6 @@ public class RegisterActivity extends AppCompatActivity {
                 } else if (password1.length() < 7) {
                     Toast.makeText(RegisterActivity.this, "Legalább 7 karakter hosszú jelszót válassz!", Toast.LENGTH_SHORT).show();
                 } else {
-                    // TODO: register user to firebase
 
                     firebaseAuth.createUserWithEmailAndPassword(email, password1).addOnCompleteListener(new OnCompleteListener<AuthResult>() {
                         @Override

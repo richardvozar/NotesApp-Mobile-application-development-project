@@ -106,9 +106,9 @@
         android:layout_marginLeft="30dp"
         android:layout_marginTop="10dp"
         android:layout_marginRight="30dp"
-        android:text="@string/loginText"
         android:backgroundTint="@color/floating_button"
-        android:textColor="@color/note_popup"/>
+        android:text="@string/loginText"
+        android:textColor="@color/note_popup" />
 
 
     <Button
@@ -119,9 +119,9 @@
         android:layout_marginLeft="30dp"
         android:layout_marginTop="110dp"
         android:layout_marginRight="30dp"
-        android:text="@string/forgotPasswordText"
         android:backgroundTint="@color/floating_button"
-        android:textColor="@color/note_popup"/>
+        android:text="@string/forgotPasswordText"
+        android:textColor="@color/note_popup" />
 
 
     <Button

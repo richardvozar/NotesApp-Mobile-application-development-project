@@ -20,4 +20,5 @@
     <string name="cimText">Cím</string>
     <string name="contentNoteText">This is the content of this note.</string>
     <string name="searchText">Keresés</string>
+    <string name="pwReminderText">Jelszóemlékeztető küldése az email címedre</string>
 </resources>

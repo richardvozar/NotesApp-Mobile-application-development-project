@@ -5,7 +5,8 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".RegisterActivity"
-    android:background="#f9f9f9">
+    android:background="#f9f9f9"
+    android:backgroundTint="@color/background">
 
 
 
@@ -31,7 +32,7 @@
             android:layout_height="wrap_content"
             android:text="@string/regisztracioText"
             android:textSize="42sp"
-            android:textColor="#FFBD4D"
+            android:textColor="@color/note_popup"
             android:textStyle="bold">
         </TextView>
     </LinearLayout>
@@ -99,7 +100,9 @@
         android:layout_marginLeft="30dp"
         android:layout_marginTop="10dp"
         android:layout_marginRight="30dp"
-        android:text="@string/registerButtonText"></Button>
+        android:backgroundTint="@color/floating_button"
+        android:text="@string/registerButtonText"
+        android:textColor="@color/note_popup"></Button>
 
 
     <Button
@@ -110,7 +113,9 @@
         android:layout_marginLeft="30dp"
         android:layout_marginTop="10dp"
         android:layout_marginRight="30dp"
-        android:text="@string/backToLoginText"></Button>
+        android:text="@string/backToLoginText"
+        android:backgroundTint="@color/floating_button"
+        android:textColor="@color/note_popup"></Button>
 
 
 
