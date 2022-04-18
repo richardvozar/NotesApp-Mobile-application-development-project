@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "515618554920",
+    "project_id": "jegyzetekapp",
+    "storage_bucket": "jegyzetekapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:515618554920:android:09f1987c20075bbf04211d",
+        "android_client_info": {
+          "package_name": "com.example.jegyzetek"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "515618554920-ifcpbisp5jhtn1o9kao0fa97q3o6ob1o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.jegyzetek",
+            "certificate_hash": "def2f0d292b8bf91f9bd3e31fd7a02f895f4bc83"
+          }
+        },
+        {
+          "client_id": "515618554920-4spgilhkuen0rq933gt4vc84f866rjs9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBphaTRO_GeCUzGffZQrcUsW5mBdR3Lhec"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "515618554920-4spgilhkuen0rq933gt4vc84f866rjs9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

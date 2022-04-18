@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Jegyzetek</string>
+    <string name="emailHint">Add meg az email címed</string>
+    <string name="passwordHint">Add meg a jelszavad</string>
+    <string name="loginText">Bejelentkezés</string>
+    <string name="forgotPasswordText">Elfelejtett jelszó</string>
+    <string name="registerButtonText">Regisztráció</string>
+    <string name="jegyzetekText">Jegyzetek</string>
+    <string name="lepjbeText">Lépj be a folytatáshoz!</string>
+    <string name="regisztracioText">Regisztráció</string>
+    <string name="jelszoIsmetText">Ismételd meg a jelszavad</string>
+</resources>

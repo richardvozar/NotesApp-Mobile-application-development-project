@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".CreateNoteActivity">
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbarCreateNote"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/note_content">
+
+
+        <EditText
+            android:id="@+id/createTitleOfNote"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:hint="@string/jegyzetCimHintText"
+            android:paddingTop="12dp"
+            android:textColor="@color/black"
+            android:textSize="20sp"
+            android:textStyle="bold">
+
+        </EditText>
+
+    </androidx.appcompat.widget.Toolbar>
+
+    <EditText
+        android:id="@+id/createContentOfNote"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/toolbarCreateNote"
+        android:background="@color/background"
+        android:gravity="top|left"
+        android:hint="@string/jegyzetTartalmaHintText"
+        android:padding="15dp"
+        android:textColor="@color/black"
+        android:textSize="15sp">
+
+    </EditText>
+
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:id="@+id/saveNoteButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:layout_gravity="bottom|end"
+        android:layout_marginRight="30dp"
+        android:layout_marginBottom="30dp"
+        android:src="@drawable/ic_baseline_save_24"
+        app:maxImageSize="40dp"
+        android:backgroundTint="@color/floating_button">
+
+    </com.google.android.material.floatingactionbutton.FloatingActionButton>
+
+
+
+</RelativeLayout>

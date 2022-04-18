@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Jegyzetek</string>
+    <string name="emailHint">Add meg az email címed</string>
+    <string name="passwordHint">Add meg a jelszavad</string>
+    <string name="loginText">Bejelentkezés</string>
+    <string name="forgotPasswordText">Elfelejtett jelszó</string>
+    <string name="registerButtonText">Regisztráció</string>
+    <string name="jegyzetekText">Jegyzetek</string>
+    <string name="lepjbeText">Lépj be a folytatáshoz!</string>
+    <string name="regisztracioText">Regisztráció</string>
+    <string name="jelszoIsmetText">Ismételd meg a jelszavad</string>
+    <string name="backToLoginText">Vissza a belépéshez</string>
+    <string name="forgotPwText">Elfelejtett jelszó</string>
+    <string name="giveEmailText">Add meg az email címed</string>
+    <string name="kuldesText">Küldés</string>
+    <string name="logoutText">Kijelentkezés</string>
+    <string name="menu_button_text">Menu Button</string>
+    <string name="jegyzetCimHintText">Írd be a jegyzet címét</string>
+    <string name="jegyzetTartalmaHintText">Írd ide a jegyzet tartalmát...</string>
+    <string name="cimText">Cím</string>
+    <string name="contentNoteText">This is the content of this note.</string>
+    <string name="searchText">Keresés</string>
+</resources>
