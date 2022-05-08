@@ -1,2 +1,2 @@
-# NotesApp-Mobile-application-development-project
-SEGÍTSÉG FÁJL AZ ÉRTÉKELÉSHEZ: Pontozási segédlet.xlsx
+# SEGÍTSÉG FÁJL AZ ÉRTÉKELÉSHEZ: Pontozási segédlet.xlsx
+# APK FÁJL: NotesAppVozarRichard.apk
